@@ -19,6 +19,10 @@ public class ProcesorCompus implements Procesor {
             res += procesor.proceseaza(documente);
         }
 
+<<<<<<< HEAD
         return res+2;
+=======
+        return res+1;
+>>>>>>> NNBranch
     }
 }
